@@ -6,9 +6,10 @@ This project used Excel to analyze the success/fail rates of kickstarter campaig
 
 ### Purpose
 The purpose of this project is to review the success / fail rates of kickstarter campigns in an attempt to identify the best time of year to launch and the most successful fundraising goals.   To achieve this analysis, we narrowed the data to theater outcomes according to launch date and outcomes according to the funding goal.  See the graphs below.
-![Outcomes Based on Launch Date] (https://github.com/LauraZJ/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-![Outcomes based on Goals] (https://github.com/LauraZJ/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Launch Date](https://github.com/LauraZJ/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
+![Outcomes based on Goals](https://github.com/LauraZJ/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ## Analysis and Challenges
 
@@ -28,8 +29,8 @@ When calculating the outcomes based on goal, I was concerned that the formula I 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-1. December has the highest failure to success ratio at nearly one to one.  There is a higher failure risk in Decmeber and I would be cautious about launching in December.
-2. The success to failure rate is highest in May, June and July.   
+  1. December has the highest failure to success ratio at nearly one to one.  There is a higher failure risk in Decmeber and I would be cautious about launching in December.
+  2. The success to failure rate is highest in May, June and July.   
 
 - What can you conclude about the Outcomes based on Goals?
 1. The projects with smaller goals are more successful at achieving the goal.
